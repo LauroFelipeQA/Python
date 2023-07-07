@@ -4,5 +4,5 @@ matriz = [
     [7,8,9]
 ]
 
-print(matriz[0])
-print(matriz[2][2])
+print(matriz[0]) # = 1
+print(matriz[2][2]) # = 9

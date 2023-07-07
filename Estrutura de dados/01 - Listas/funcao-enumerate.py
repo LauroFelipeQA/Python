@@ -2,3 +2,7 @@ carros = ["Palio", "Gol", "Polo", "Parati", "Sandero", "Sennata", "Fiat 147", "V
 
 for indice, carro in enumerate(carros):
     print(f"{indice} : {carro}")
+
+
+
+
